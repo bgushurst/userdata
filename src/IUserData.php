@@ -2,11 +2,13 @@
 /**
  * User Data Library
  *
+ * Core user data interface to be implemented
+ *
  * @copyright Copyright (c) 2013 Brad Gushurst
  * @license MIT License
  */
 
-namespace UserData;
+namespace BRRS\UserData;
 
 interface IUserData
 {
