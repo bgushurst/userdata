@@ -4,8 +4,11 @@
  *
  * Core user data interface to be implemented
  *
- * @copyright Copyright (c) 2013 Brad Gushurst
- * @license MIT License
+ * @category 	UserData
+ * @package 	Core
+ * @author 		Brad Gushurst
+ * @copyright 	Copyright (c) 2013 Brad Gushurst
+ * @license 	MIT License
  */
 
 namespace BRRS\UserData;
